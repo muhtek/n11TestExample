@@ -6,8 +6,8 @@ import org.junit.Test;
 public class Resources extends MainFunctions {
 
     static public String username ="email";
-    static public String eposta="hakantektas@outlook.com.tr";
-    static public String sifre="6390571gs";
+    static public String eposta="****";
+    static public String sifre="******"
     static public String pass ="password";
     static public String login="loginButton";
     static public String girisYap="btnSignIn";
